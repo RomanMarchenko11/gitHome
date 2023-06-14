@@ -1,4 +1,5 @@
-Robot Dreams
-Java-2 Course
+Head First
+Java
+Легкий для сприйняття довідник
 
-Я починаю курс Java в robot_dreams і вже вмію використовувати Git
+
